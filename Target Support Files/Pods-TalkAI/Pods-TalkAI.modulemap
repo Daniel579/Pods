@@ -1,0 +1,6 @@
+framework module Pods_TalkAI {
+  umbrella header "Pods-TalkAI-umbrella.h"
+
+  export *
+  module * { export * }
+}
